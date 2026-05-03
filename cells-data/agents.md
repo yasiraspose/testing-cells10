@@ -58,3 +58,4 @@ Output files are written to the working directory.
 - retrieve-and-manipulate-individual-cells-within-an-xlsx-workbook-using-the-provided-api-methods.cs
 - apply-an-autofilter-to-data-in-an-xlsx-workbook-to-enable-dynamic-row-and-column-filtering.cs
 - import-a-datagrid-into-an-xlsx-worksheet-mapping-grid-columns-to-worksheet-cells-and-preserving-data-types.cs
+- import-data-from-a-gridview-control-into-an-xlsx-workbook-preserving-cell-formatting-and-structure.cs

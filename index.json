@@ -18,6 +18,11 @@
       "category": "comments-and-notes",
       "file": "delete-all-threaded-comments-from-an-xlsx-workbook-after-loading-the-file-into-memory.cs",
       "title": "Delete all threaded comments from an XLSX workbook after loading the file into memory."
+    },
+    {
+      "category": "comments-and-notes",
+      "file": "programmatically-delete-all-threaded-comments-from-an-xlsx-workbook-after-loading-it-with-the-excel-library.cs",
+      "title": "Programmatically delete all threaded comments from an XLSX workbook after loading it with the Excel library."
     }
   ]
 }

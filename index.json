@@ -23,6 +23,11 @@
       "category": "comments-and-notes",
       "file": "programmatically-delete-all-threaded-comments-from-an-xlsx-workbook-after-loading-it-with-the-excel-library.cs",
       "title": "Programmatically delete all threaded comments from an XLSX workbook after loading it with the Excel library."
+    },
+    {
+      "category": "comments-and-notes",
+      "file": "programmatically-retrieve-the-creation-timestamp-metadata-of-each-threaded-comment-within-an-xlsx-workbook.cs",
+      "title": "Programmatically retrieve the creation timestamp metadata of each threaded comment within an XLSX workbook."
     }
   ]
 }

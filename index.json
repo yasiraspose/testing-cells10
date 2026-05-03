@@ -1,0 +1,13 @@
+{
+  "product": "Aspose.Cells",
+  "agent": "Aspose.Cells Product Agent",
+  "language": "csharp",
+  "framework": ".NET",
+  "examples": [
+    {
+      "category": "cells-data",
+      "file": "retrieve-or-manipulate-individual-cells-within-an-xlsx-worksheet-programmatically-via-the-net-api.cs",
+      "title": "Retrieve or manipulate individual cells within an XLSX worksheet programmatically via the .NET API."
+    }
+  ]
+}

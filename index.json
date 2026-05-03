@@ -13,6 +13,11 @@
       "category": "cells-data",
       "file": "retrieve-or-manipulate-individual-cells-within-an-xlsx-worksheet-programmatically-via-the-net-api.cs",
       "title": "Retrieve or manipulate individual cells within an XLSX worksheet programmatically via the .NET API."
+    },
+    {
+      "category": "comments-and-notes",
+      "file": "delete-all-threaded-comments-from-an-xlsx-workbook-after-loading-the-file-into-memory.cs",
+      "title": "Delete all threaded comments from an XLSX workbook after loading the file into memory."
     }
   ]
 }

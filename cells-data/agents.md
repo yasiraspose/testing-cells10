@@ -60,3 +60,4 @@ Output files are written to the working directory.
 - import-a-datagrid-into-an-xlsx-worksheet-mapping-grid-columns-to-worksheet-cells-and-preserving-data-types.cs
 - import-data-from-a-gridview-control-into-an-xlsx-workbook-preserving-cell-formatting-and-structure.cs
 - implement-an-enumerator-to-iterate-over-rows-in-an-xlsx-worksheet-efficiently-supporting-lazy-loading-and-memory-optimization.cs
+- export-the-worksheets-display-range-to-an-xlsx-file-preserving-only-the-visible-cells.cs

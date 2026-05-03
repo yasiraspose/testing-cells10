@@ -56,3 +56,4 @@ Examples may generate:
 Output files are written to the working directory.
 - retrieve-or-manipulate-individual-cells-within-an-xlsx-worksheet-programmatically-via-the-net-api.cs
 - retrieve-and-manipulate-individual-cells-within-an-xlsx-workbook-using-the-provided-api-methods.cs
+- apply-an-autofilter-to-data-in-an-xlsx-workbook-to-enable-dynamic-row-and-column-filtering.cs

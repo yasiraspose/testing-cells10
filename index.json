@@ -6,6 +6,11 @@
   "examples": [
     {
       "category": "cells-data",
+      "file": "apply-an-autofilter-to-data-in-an-xlsx-workbook-to-enable-dynamic-row-and-column-filtering.cs",
+      "title": "Apply an auto\u2011filter to data in an XLSX workbook to enable dynamic row and column filtering."
+    },
+    {
+      "category": "cells-data",
       "file": "retrieve-and-manipulate-individual-cells-within-an-xlsx-workbook-using-the-provided-api-methods.cs",
       "title": "Retrieve and manipulate individual cells within an XLSX workbook using the provided API methods."
     },

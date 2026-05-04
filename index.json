@@ -46,6 +46,11 @@
     },
     {
       "category": "comments-and-notes",
+      "file": "insert-a-threaded-comment-into-an-xlsx-workbook-loaded-in-memory-using-the-net-spreadsheet-library.cs",
+      "title": "Insert a threaded comment into an XLSX workbook loaded in memory using the .NET spreadsheet library."
+    },
+    {
+      "category": "comments-and-notes",
       "file": "programmatically-delete-all-threaded-comments-from-an-xlsx-workbook-after-loading-it-with-the-excel-library.cs",
       "title": "Programmatically delete all threaded comments from an XLSX workbook after loading it with the Excel library."
     },

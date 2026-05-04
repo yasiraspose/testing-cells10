@@ -57,3 +57,4 @@ Output files are written to the working directory.
 - delete-all-threaded-comments-from-an-xlsx-workbook-after-loading-the-file-into-memory.cs
 - programmatically-delete-all-threaded-comments-from-an-xlsx-workbook-after-loading-it-with-the-excel-library.cs
 - programmatically-retrieve-the-creation-timestamp-metadata-of-each-threaded-comment-within-an-xlsx-workbook.cs
+- insert-a-threaded-comment-into-an-xlsx-workbook-loaded-in-memory-using-the-net-spreadsheet-library.cs
